@@ -1,0 +1,6 @@
+{
+  "name": "TGLD School V1",
+  "description": "Application mobile de suivi scolaire pour collégiens et lycéens : gestion des notes, matières, calendrier d'évaluations et génération de bulletin scolaire officiel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
